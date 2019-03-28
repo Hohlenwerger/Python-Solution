@@ -1,0 +1,5 @@
+
+Categoria: Panelas | Valor Total: 4049.64
+Categoria: Eletrodomésticos | Valor Total: 315752.67
+Categoria: Eletrônicos | Valor Total: 203989.2
+Categoria: Acessórios | Valor Total: 0.0
